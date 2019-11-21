@@ -1,3 +1,4 @@
-## ITiCSE 2019: Compiler Error Messages Considered Unhelpful
+<img src="iticse19-wg10.jpg"
+     alt="working group photo" />
 
 Make pages here
